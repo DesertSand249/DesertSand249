@@ -1,7 +1,7 @@
 
 
-👋 Hi, I'm desertsand :)
-😢 I miss morning dew because i'm desertsand!
+- 👋 Hi, I'm desertsand :)
+- 😢 I miss morning dew because i'm desertsand!
 
 
 <!---
